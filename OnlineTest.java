@@ -1,5 +1,5 @@
 /*Online Exam Project in Java Swing without Database */
-/*This Project is made by Abhinandan Adhikari, Aayush Mishra, Kashika Parmar and Saurabh Kansara*/
+/*This Project is made by Abhinandan Adhikari*/
   
 import java.awt.*;  
 import java.awt.event.*;  
